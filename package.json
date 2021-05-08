@@ -1,0 +1,19 @@
+{
+  "name": "aula2",
+  "version": "1.0.0",
+  "description": "this aplication have as features be use to lear nodejs in programation class 3A",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas-Matsdorf/aula2.git"
+  },
+  "author": "Nicolas Kisner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolas-Matsdorf/aula2/issues"
+  },
+  "homepage": "https://github.com/Nicolas-Matsdorf/aula2#readme"
+}
